@@ -29,7 +29,7 @@ A real-time chat application built with **Express.js** on the backend and **Next
 1. **Clone the repository:**
 
    ```bash
-   git clone [<repository-url>](https://github.com/Piyanshu23/quick_chat.git)
+   git clone https://github.com/Piyanshu23/quick_chat.git
    cd chat_app
    ```
 
